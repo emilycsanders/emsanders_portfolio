@@ -6,7 +6,7 @@ Welcome to the repository for my personal portfolio website! This site serves as
 
 This portfolio is designed to highlight:
 - My data analytics, machine learning, and consulting work
-- Front-end development skills and UX sensibility
+- Front-end development skills
 - Who I am as a student, intern, and aspiring data professional
 - A belief that *everything is done with a purpose*, including the way we present our work
 
@@ -17,19 +17,6 @@ This portfolio is designed to highlight:
 - **JavaScript** – light interactivity (optional features)
 - **Google Analytics** – visitor insights and engagement tracking
 - **GitHub Pages** – hosting and version control
-
-## 📁 Structure
-
-├── index.html # Main landing page
-├── about.html # Personal bio and headshot
-├── projects.html # Highlighted data and consulting projects
-├── resume.html # Interactive or downloadable resume
-├── contact.html # Links to LinkedIn, email, etc.
-├── /images # Headshot, project screenshots, branding assets
-├── /css # Custom stylesheets
-├── privacy-policy.html
-├── terms.html
-├── cookie-policy.html
 
 ## 🚀 Live Site
 
